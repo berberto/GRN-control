@@ -1,6 +1,9 @@
 # Reinforcement learning solution for optimal feedback in a GRN
 
 
+[![DOI](https://zenodo.org/badge/638884312.svg)](https://zenodo.org/badge/latestdoi/638884312)
+
+
 ### Setup 
 
 1. Clone the repository:
